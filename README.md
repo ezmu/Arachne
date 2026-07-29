@@ -4,9 +4,7 @@
 > *"Everything you see is a result. Every result is a fabric. And every fabric is Arachne."*
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![arXiv](https://img.shields.io/badge/arXiv-2407.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2407.xxxxx)
-[![C](https://img.shields.io/badge/C-99-blue.svg)](https://en.wikipedia.org/wiki/C99)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
 
 ---
 
