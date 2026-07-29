@@ -1,4 +1,3 @@
-# 📄 **README.md لـ GitHub**
 
 # 🕸️ Arachne – The Algorithm of Everything
 
