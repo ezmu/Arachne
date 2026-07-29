@@ -188,18 +188,13 @@ An accompanying paper, **"Arachne: The Algorithm of Everything – The Fabric of
 | Decision trees | ✅ Done |
 | ASCII/SVG visualisation | ✅ Done |
 | JSON/Graphviz/D3 export | ✅ Done |
-| **Future** | |
-| Machine learning integration | 🔄 Planned |
-| Real-time data ingestion | 🔄 Planned |
-| GUI interface | 🔄 Planned |
-| Distributed computation | 🔄 Planned |
-| Formal verification | 🔄 Planned |
+
 
 ---
 
 ## 🤝 **Contributing**
 
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
+Contributions are welcome! 
 
 ### **Development Setup**
 
@@ -209,12 +204,6 @@ cd arachne
 make
 make test
 ```
-
-### **Code Style**
-
-- Follow C99 standard
-- Use `snake_case` for functions and variables
-- Document all public functions with comments
 
 ---
 
