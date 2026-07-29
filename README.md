@@ -234,7 +234,7 @@ Under the following terms:
 
 ## 📧 **Contact**
 
-- **Author**: EZ-EDEEN MUSHTAHA
+- **Author**: EZ-ELDEEN MUSHTAHA
 - **Email**: 3z.eldeen@gmail.com
 - **GitHub**: [ezmu](https://github.com/ezmu)
 
