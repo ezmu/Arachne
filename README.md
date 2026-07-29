@@ -234,10 +234,9 @@ Under the following terms:
 
 ## 📧 **Contact**
 
-- **Author**: [Your Name]
+- **Author**: EZ-EDEEN MUSHTAHA
 - **Email**: 3z.eldeen@gmail.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **ResearchGate**: [Your Profile](https://researchgate.net/profile/yourprofile)
+- **GitHub**: [ezmu](https://github.com/ezmu)
 
 ---
 
