@@ -216,13 +216,6 @@ Under the following terms:
 - **NonCommercial** – You may not use the material for commercial purposes
 - **ShareAlike** – If you remix, transform, or build upon the material, you must distribute your contributions under the same license
 
----
-
-## 🙏 **Acknowledgements**
-
-- Inspired by the myth of Arachne and quantum mechanics
-- Built with C99, POSIX, and community feedback
-- Data from ACLED (Armed Conflict Location & Event Data Project)
 
 ---
 
