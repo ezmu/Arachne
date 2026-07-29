@@ -163,12 +163,6 @@ Arachne is named after the Greek myth of **Arachne** – a weaver who challenged
 
 ---
 
-## 📚 **Research Paper**
-
-An accompanying paper, **"Arachne: The Algorithm of Everything – The Fabric of Existence"**, is available on arXiv.
-
-[![arXiv](https://img.shields.io/badge/arXiv-2407.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2407.xxxxx)
-
 ### **Abstract**
 
 > This paper presents Arachne, a novel framework that models reality as a probabilistic spiderweb of interconnected nodes and edges. Inspired by quantum mechanics—superposition, collapse, and entanglement—Arachne represents entities as nodes and relationships as probabilistic edges. The system supports prediction of most probable paths, adaptive learning from events, decision-tree analysis, and exploration of alternative realities. We demonstrate Arachne on a Middle East conflict network (based on ACLED data), showing how it can model complex geopolitical dynamics and identify critical thresholds for peace. The framework is implemented in C with memory-mapped storage, supporting up to 1M nodes and 5M edges. While not a true quantum system, Arachne offers a practical, extensible model for reasoning about uncertainty, causality, and choice in interconnected systems.
